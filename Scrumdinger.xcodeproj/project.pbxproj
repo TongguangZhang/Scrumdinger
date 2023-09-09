@@ -28,6 +28,7 @@
 		143C5ECC2AACEEE500566117 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143C5EC82AACEEE500566117 /* Theme.swift */; };
 		143C5ECF2AACF1F300566117 /* NewScrumSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143C5ECE2AACF1F300566117 /* NewScrumSheet.swift */; };
 		143C5ED12AACF60B00566117 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143C5ED02AACF60B00566117 /* History.swift */; };
+		143C5ED32AACF9E500566117 /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143C5ED22AACF9E500566117 /* ScrumStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		143C5ECD2AACF0C700566117 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		143C5ECE2AACF1F300566117 /* NewScrumSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewScrumSheet.swift; sourceTree = "<group>"; };
 		143C5ED02AACF60B00566117 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
+		143C5ED22AACF9E500566117 /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 				143C5EC72AACEEE500566117 /* ScrumTimer.swift */,
 				143C5EC82AACEEE500566117 /* Theme.swift */,
 				143C5ED02AACF60B00566117 /* History.swift */,
+				143C5ED22AACF9E500566117 /* ScrumStore.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 				143C5EC12AACEED800566117 /* DetailView.swift in Sources */,
 				143C5EAC2AACEDD600566117 /* MeetingView.swift in Sources */,
 				143C5EC92AACEEE500566117 /* DailyScrum.swift in Sources */,
+				143C5ED32AACF9E500566117 /* ScrumStore.swift in Sources */,
 				143C5EBF2AACEED800566117 /* DetailEditView.swift in Sources */,
 				143C5EC22AACEED800566117 /* CardView.swift in Sources */,
 				143C5EC02AACEED800566117 /* TrailingIconLabelStyle.swift in Sources */,

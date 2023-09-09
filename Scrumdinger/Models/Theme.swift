@@ -1,10 +1,13 @@
-/*
- See LICENSE folder for this sample’s licensing information.
- */
+//
+//  Theme.swift
+//  Scrumdinger
+//
+//  Created by Tong Zhang on 2023-09-08.
+//
 
 import SwiftUI
 
-enum Theme: String, CaseIterable, Identifiable {
+enum Theme: String, CaseIterable, Identifiable, Codable {
     case bubblegum
     case buttercup
     case indigo

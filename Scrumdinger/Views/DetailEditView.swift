@@ -1,6 +1,9 @@
-/*
- See LICENSE folder for this sample’s licensing information.
- */
+//
+//  DetailEditView.swift
+//  Scrumdinger
+//
+//  Created by Tong Zhang on 2023-09-08.
+//
 
 import SwiftUI
 
