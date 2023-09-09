@@ -27,6 +27,7 @@
 		143C5ECB2AACEEE500566117 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143C5EC72AACEEE500566117 /* ScrumTimer.swift */; };
 		143C5ECC2AACEEE500566117 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143C5EC82AACEEE500566117 /* Theme.swift */; };
 		143C5ECF2AACF1F300566117 /* NewScrumSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143C5ECE2AACF1F300566117 /* NewScrumSheet.swift */; };
+		143C5ED12AACF60B00566117 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143C5ED02AACF60B00566117 /* History.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		143C5EC82AACEEE500566117 /* Theme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		143C5ECD2AACF0C700566117 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		143C5ECE2AACF1F300566117 /* NewScrumSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewScrumSheet.swift; sourceTree = "<group>"; };
+		143C5ED02AACF60B00566117 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 				143C5EC52AACEEE500566117 /* DailyScrum.swift */,
 				143C5EC72AACEEE500566117 /* ScrumTimer.swift */,
 				143C5EC82AACEEE500566117 /* Theme.swift */,
+				143C5ED02AACF60B00566117 /* History.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				143C5ED12AACF60B00566117 /* History.swift in Sources */,
 				143C5E9D2AACED2400566117 /* ScrumdingerApp.swift in Sources */,
 				143C5EC32AACEED800566117 /* ThemeView.swift in Sources */,
 				143C5EC12AACEED800566117 /* DetailView.swift in Sources */,
